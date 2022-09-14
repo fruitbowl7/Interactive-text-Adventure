@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a39ffba04e94492438dec98d4f1b0f8a
+guid: 5acdf8a9143b2d143a7171664f92a5d0
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Angelina
+  - The Rocky
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
