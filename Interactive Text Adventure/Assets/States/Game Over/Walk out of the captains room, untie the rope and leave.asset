@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Walk out of the captains room, untie the rope and leave
+  m_EditorClassIdentifier: 
+  storyText: "You untie the rope and set sale. You have heard legends about the book,
+    so you think you know where you're going. You follow the vile river, you realize
+    a little too late that there is a huge drop\u2026You should have studied those
+    maps. \r\n\n1 Try again?\r\n2 Quit\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 62f7d619c7545714b88ed55a935d5022, type: 2}
+  - {fileID: 0}

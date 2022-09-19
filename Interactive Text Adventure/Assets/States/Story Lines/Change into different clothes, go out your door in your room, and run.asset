@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Change into different clothes, go out your door in your room, and run
+  m_EditorClassIdentifier: 
+  storyText: "You change and grab your gear. You sneak out your secret door that
+    leads to the outside. Once you get outside you see that there's guards surrounding
+    your house. You try to sneak past them, but they spot you and start to chase
+    you. You try to out run them but they eventually catch you and the escorte you
+    back to your room. Instead  of changing by yourself there's now a guard watching
+    you making sure you won't escape. \r\n\n1 Continue \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 089ad0f51a1075e46a1c5d74335af10e, type: 2}

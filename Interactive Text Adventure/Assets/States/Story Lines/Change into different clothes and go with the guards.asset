@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Change into different clothes and go with the guards
+  m_EditorClassIdentifier: 
+  storyText: "The guards take you to the carriage and you ride with them to the castle,
+    which feels like forever. Once you enter the castle you are escorted to the queen.
+    When the queen sees you she exclaims that she has given you a mission, you will
+    track the lost book of Melo, retrieve it, and bring it back to her. What will
+    your answer be?\r\n\n1 \u201CYes your majesty. But I have only one question for
+    you my queen, will I get any resources for the journey?\u201D\r\n2 \u201CYour
+    majesty, I politely decline your request.\u201D You walk away feeling very full
+    of yourself.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: fc07ac52d1c685c4da85c33bf2e56515, type: 2}
+  - {fileID: 11400000, guid: 221d0446e247da146b34e1d4a5ce4001, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: "\u201CYes your majesty. But I have only one question for you my queen,
+    will I get any resources for the journey\u201D"
+  m_EditorClassIdentifier: 
+  storyText: "She tells you that you will get a boat, food that will last for two
+    years, and weapons. You nod your head, and then the guards lead you to the dock.
+    You see a small boat, it's wooded, a little damaged but hey it's at least something.
+    You get in the boat and\r\ngo into the captain's room. There are about 20 maps
+    and books. What will you do next?\r\n\n1 Walk out of the captains room, untie
+    the rope and leave\r\n2 Take a minute to look and study the maps \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: ac1255eb477e8d8458cc50f1a0fdc085, type: 2}
+  - {fileID: 0}
