@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Take the trail
+  m_EditorClassIdentifier: 
+  storyText: "You start to walk on the trail, it is very overgrown but you pay no
+    attention to it. You walk for a good 20 minutes before you  hit a dead end. You
+    should just stop taking shortcuts. All of a sudden you hear rustling through
+    the trees and bushes. A group of people jump out and grab you. They start to
+    grab all your things, then one of them reaches out of the pocute, takes the knife
+    and stabs you. You really need to stop taking shortcuts. \r\n\n1 - Try again?\r\n2
+    - Quit\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 62f7d619c7545714b88ed55a935d5022, type: 2}
+  - {fileID: 0}

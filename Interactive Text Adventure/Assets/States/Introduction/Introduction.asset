@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
-  m_Name: New State
+  m_Name: Introduction
   m_EditorClassIdentifier: 
   storyText: ' The smell of tea and biscuits in the morning has always been your
     favorite. You sit down on your balcony with a slight breeze of cool wind hitting
@@ -18,10 +18,11 @@ MonoBehaviour:
     hear banging from your door. What do you do?
 
 
-    1 Open the door carefully
+    1 - Open the door carefully
     to see who is on the other side
 
-    2 Yell at the mysterious person to go away
+    2 - Yell at the mysterious person to go
+    away
 
 '
   nextStates:

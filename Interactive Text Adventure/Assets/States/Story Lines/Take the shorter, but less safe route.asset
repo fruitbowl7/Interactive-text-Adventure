@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Take the shorter, but less safe route
+  m_EditorClassIdentifier: 
+  storyText: "You hope that this shortcut will work out in your favor. You start
+    to get hungry, so you go hunting in the pond that's nearby. You catch an abundance
+    of fish, you will be good on food for the rest of your journey. While you're
+    there you get some water and purify it. \r\n\n1 - Continue\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 05ea7883a00a5d241b250b66973cf34d, type: 2}

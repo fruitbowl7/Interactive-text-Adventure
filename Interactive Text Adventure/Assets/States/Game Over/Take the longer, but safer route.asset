@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
-  m_Name: "\u201CYour majesty, I will politely decline your request.\u201D You walk
-    away feeling very full of yourself."
+  m_Name: Take the longer, but safer route
   m_EditorClassIdentifier: 
-  storyText: 'As you walk away you can hear the queen sigh and mumble something.
-    You feel a sharp pain in your stomach. As you look down you feel another sharp
-    pain. You realize that you have been stabbed.
+  storyText: 'You have walked for days, you''re running low on water, and food. There
+    are no animals in sight. You decide to take a break and nap. You end up dying
+    in your sleep from dehydration and starvation. Maybe you should have taken the
+    shortcut.
 
 
     1 - Try again?

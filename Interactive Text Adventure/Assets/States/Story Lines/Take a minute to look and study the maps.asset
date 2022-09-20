@@ -15,6 +15,6 @@ MonoBehaviour:
   storyText: "You study the maps for about 25 minutes, and you figure out the best
     route is to follow the eagle river. It should only take you four months to get
     there and four months to get back. You untie the boat, and set sail to take the
-    eagle river. \r\n\n1 Continue\r\n"
+    eagle river. \r\n\n1 - Continue\r\n"
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 332b4bbcafe4993498fbdfd36837afa3, type: 2}

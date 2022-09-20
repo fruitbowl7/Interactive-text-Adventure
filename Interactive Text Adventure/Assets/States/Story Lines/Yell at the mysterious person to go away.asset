@@ -16,7 +16,7 @@ MonoBehaviour:
     and instead of running you freeze in place, it's not one of your best moments.
     Eventually they break the door down and grab you. They tell you you must change
     and go to the queen at once. You sigh and go to your room. What will you do next?\r\n\n1
-    Change into different clothes and go with the guards \r\n2 Change into different
+    - Change into different clothes and go with the guards \r\n2 - Change into different
     clothes, go out your door in your room, and run\r\n"
   nextStates:
   - {fileID: 11400000, guid: 089ad0f51a1075e46a1c5d74335af10e, type: 2}

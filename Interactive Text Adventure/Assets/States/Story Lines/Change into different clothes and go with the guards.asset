@@ -16,8 +16,8 @@ MonoBehaviour:
     which feels like forever. Once you enter the castle you are escorted to the queen.
     When the queen sees you she exclaims that she has given you a mission, you will
     track the lost book of Melo, retrieve it, and bring it back to her. What will
-    your answer be?\r\n\n1 \u201CYes your majesty. But I have only one question for
-    you my queen, will I get any resources for the journey?\u201D\r\n2 \u201CYour
+    your answer be?\r\n\n1 - \u201CYes your majesty. But I have only one question
+    for you my queen, will I get any resources for the journey?\u201D\r\n2 - \u201CYour
     majesty, I politely decline your request.\u201D You walk away feeling very full
     of yourself.\r\n"
   nextStates:

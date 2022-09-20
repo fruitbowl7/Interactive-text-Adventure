@@ -17,6 +17,6 @@ MonoBehaviour:
     your house. You try to sneak past them, but they spot you and start to chase
     you. You try to out run them but they eventually catch you and the escorte you
     back to your room. Instead  of changing by yourself there's now a guard watching
-    you making sure you won't escape. \r\n\n1 Continue \r\n"
+    you making sure you won't escape. \r\n\n1 - Continue \r\n"
   nextStates:
   - {fileID: 11400000, guid: 089ad0f51a1075e46a1c5d74335af10e, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: It's been two weeks since you left
+  m_EditorClassIdentifier: 
+  storyText: 'It''s been two weeks since you left. You have made it to your location,
+    the rocky mountain. You find a spot that''s covered by some trees, so your boat
+    doesn''t get stolen. You start to walk up to the mountain, but there''s two things
+    you can do.
+
+
+    1 - Go up the mountain
+
+    2 - Go around the mountain
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: b328b9b22f1f22749bec582192aa7051, type: 2}
+  - {fileID: 11400000, guid: 8bf2122b58de6424493e56a7d14c99a0, type: 2}

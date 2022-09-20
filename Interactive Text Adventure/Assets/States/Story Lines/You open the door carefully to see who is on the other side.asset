@@ -16,7 +16,7 @@ MonoBehaviour:
     because you're still in your pajamas. They order you to come with them, lucky
     they let you change into more proper clothes. You runugtentlty agree, letting
     out a sigh of relief.  You get into your room, what will you do next?\r\n\n1
-    Change into different clothes and go with the guards \r\n2 Change into different
+    - Change into different clothes and go with the guards \r\n2 - Change into different
     clothes, go out your secret door in your room, and run\r\n\r\n"
   nextStates:
   - {fileID: 11400000, guid: 089ad0f51a1075e46a1c5d74335af10e, type: 2}

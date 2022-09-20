@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Go up the mountain
+  m_EditorClassIdentifier: 
+  storyText: 'It takes you 2 hours to get halfway up the mountain, but now you see
+    a trail. Should you take the trail or continue on your original route?
+
+
+    1
+    - Take the trail
+
+    2 - Continue on your original route
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 1c3d46292473f9445a6801597d2dbfed, type: 2}
+  - {fileID: 11400000, guid: 31124911e30fa0d4b84f4eb3633679b5, type: 2}

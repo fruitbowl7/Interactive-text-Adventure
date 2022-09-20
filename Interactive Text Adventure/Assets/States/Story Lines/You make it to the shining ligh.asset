@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: You make it to the shining ligh
+  m_EditorClassIdentifier: 
+  storyText: "You make it to the shining light, where it is believed that the lost
+    book of Melo lies. You walk up to the gate and notice a mystical text, it reads
+    out \u201CWhen the sun shines and the moon falls, you shall access me. Death
+    may follow those who shall disobey me.\u201D What do you do?\r\n\n1 - Wait for
+    the sun to shine and moon to fall\r\n2 - Try to open the gate anyway\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 59a92aabf2358f741bf4558b2d43945b, type: 2}
+  - {fileID: 11400000, guid: 4bca925f9615d234aadaefe817145a37, type: 2}

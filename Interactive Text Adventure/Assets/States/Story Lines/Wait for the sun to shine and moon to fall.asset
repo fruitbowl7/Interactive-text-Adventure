@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Wait for the sun to shine and moon to fall
+  m_EditorClassIdentifier: 
+  storyText: "You decide to take a short nap next to the gate. Hours later you start
+    to hear a noise. You open your eyes and you feel your body slightly start to
+    fall back. You start to get up and grab your bag. The sun has risen and the moon
+    has set. As you walk through the gates you notice how overgrown and beautiful
+    it looks. You see two paths that you could take. One is a rocky path covered
+    in greenery, the other is a smooth path also covered in greenery . \r\n\n1 -
+    A rocky path covered in greenery\r\n2 - A smooth path covered in greenery\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 2b272a177014d1a4da107325316802b8, type: 2}
+  - {fileID: 11400000, guid: ba618dcfb7f3168478f5c6cc1f3e24a1, type: 2}

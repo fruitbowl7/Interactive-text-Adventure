@@ -17,8 +17,8 @@ MonoBehaviour:
     years, and weapons. You nod your head, and then the guards lead you to the dock.
     You see a small boat, it's wooded, a little damaged but hey it's at least something.
     You get in the boat and\r\ngo into the captain's room. There are about 20 maps
-    and books. What will you do next?\r\n\n1 Walk out of the captains room, untie
-    the rope and leave\r\n2 Take a minute to look and study the maps \r\n"
+    and books. What will you do next?\r\n\n1 - Walk out of the captains room, untie
+    the rope and leave\r\n2 - Take a minute to look and study the maps \r\n"
   nextStates:
   - {fileID: 11400000, guid: ac1255eb477e8d8458cc50f1a0fdc085, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 46538b5ddefc30842aa8ab9d2e46eec7, type: 2}
