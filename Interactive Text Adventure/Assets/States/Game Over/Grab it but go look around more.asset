@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Grab it but go look around more
+  m_EditorClassIdentifier: 
+  storyText: "You grab the book, but you decide to look around more to see if there's
+    anything other valuable items. After a couple of minutes of looking you find
+    some jewels and gold. You grab them and put them in your bag along with the book.
+    You then feel the floor start to shake, you run under a desk you found, but then
+    you hear a voice saying \u201CYou only get to take what's stated on the sign,
+    why must greedy people need everything. The punishment for greed is death.\u201D
+    All of a sudden the desk falls down and crushes you. \r\n\n1 - Try again\r\n2
+    - Quit\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 62f7d619c7545714b88ed55a935d5022, type: 2}
+  - {fileID: 0}

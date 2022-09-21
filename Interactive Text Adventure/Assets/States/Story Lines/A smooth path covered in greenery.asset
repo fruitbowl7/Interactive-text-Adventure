@@ -21,5 +21,5 @@ MonoBehaviour:
     the book, and only one will lead you to your death.\u201D Which staircase will
     you choose?\r\n\n1 - The left staircase\r\n2 - The right staircase\r\n"
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: b16162bca0e07fd4885ee72fb279f383, type: 2}
   - {fileID: 11400000, guid: d28b2dcfb98d9504ca18bb3029eba051, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f807cfdc1d6f8145bc931d863c4f27b, type: 3}
+  m_Name: Grab it and leave
+  m_EditorClassIdentifier: 
+  storyText: 'You carefully grab the book and leave. You walk out the doors hoping
+    you''re okay, and you are. You leave the way you came, you get back to your boat
+    safely after a week or two. You take the eagle river to get back. You give the
+    book to the queen, she thanks you for your bravery and gives you a hefty reward.
+    I wonder why she needed the book, I guess we''ll never know.
+
+    
+
+'
+  nextStates:
+  - {fileID: 0}
