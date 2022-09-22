@@ -18,8 +18,15 @@ MonoBehaviour:
     book to the queen, she thanks you for your bravery and gives you a hefty reward.
     I wonder why she needed the book, I guess we''ll never know.
 
-    
+
+    1 - Play Again
+
+    2
+    - Quit
+
+
 
 '
   nextStates:
+  - {fileID: 11400000, guid: 62f7d619c7545714b88ed55a935d5022, type: 2}
   - {fileID: 0}
